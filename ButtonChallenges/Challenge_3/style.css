@@ -1,0 +1,22 @@
+.btn {
+    text-align: center;
+    padding: 25px 30px;
+    background: linear-gradient(to bottom, #22457c 0%, #031e56 100%);
+    max-width: 30%;
+    margin: 0 auto;
+    color: #fff;
+    border-radius: 50px;
+    border: none;
+    box-shadow: rgb(0 0 0 / 43%) 0px 24px 24px;
+}
+.btn-wrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: #D0DFE0;
+}
+
+body{
+    margin: 0;
+}
