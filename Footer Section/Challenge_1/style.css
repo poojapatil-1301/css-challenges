@@ -1,0 +1,29 @@
+ body{
+    margin: 0;
+ }
+ .content {
+    display: flex;
+  width:100%;
+}
+.content div{
+  width:100%;
+}
+.content a{
+  text-decoration:none;
+  color: #000;
+}
+.footer {
+    width: 100%;
+    padding-top: 25%;
+}
+.heading, .content{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+}
+footer{
+  text-align:center;
+}
+footer hr{
+  margin-bottom:30px;
+}
